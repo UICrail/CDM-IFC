@@ -1,6 +1,6 @@
 # About CDM-IFC
 
-The CDM (Conceptual Data Model) is a federation of models. Since the Shift2Rail LinX4Rail project, IFC is an integral part of the CDM. IFC is and remains the property of buildingSmart International, and is under the full control of bSI.
+The CDM (Conceptual Data Model) is a federation of models. Since the Shift2Rail LinX4Rail project (see public deliverable D8.3, 2023), IFC is an integral part of the CDM. IFC is and remains the property of buildingSmart International, and is under the full control of bSI.
 
 IFC is natively expressed in... [EXPRESS](https://en.wikipedia.org/wiki/EXPRESS_(data_modeling_language)), a rich but not-so-widespread formal language. IFC may have an equivalent representation in RDF/OWL: see [these technical explanations](https://technical.buildingsmart.org/standards/ifc/ifc-formats/ifcowl/). An [RDF representation of IFC 4.0 ADD2 TC1](https://technical.buildingsmart.org/standards/ifc/ifc-schema-specifications/) is available on the bSI IFC website. CDM however needs IFC Rail extensions that are released under IFC 4.3 ADD2. The updated RDF/OWL representation of IFC is not yet public.
 
